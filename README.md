@@ -13,3 +13,4 @@ It's really important that you're able to do everything from your own computer (
 Names (add below, with a newline):
 
 *Victor V.*
+**James H.**
